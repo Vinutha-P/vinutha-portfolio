@@ -28,7 +28,8 @@ header {
   gap: 0.8rem;
   position: absolute;
   left: 0;
-  bottom: 3rem;
+  bottom: 1rem;
+  font-size: 1.6rem;
 }
 
 .header_socials::after {
@@ -67,7 +68,7 @@ header {
   bottom: 5rem;
   transform: rotate(90deg);
   font-weight: 300;
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 
 /* ============== MEDIA QUERIES(MEDIUM DEVICES)============= */
